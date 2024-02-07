@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menuItems>
+    <menuItem>
+        <menuId>1</menuId>
+        <foodCategory>Main Specials</foodCategory>
+        <foodItemName>Dhokla</foodItemName>
+        <foodIngredient>Chickpea flour and water</foodIngredient>
+        <price>50</price>
+        <qty>2</qty>
+    </menuItem>
+    <menuItem>
+        <menuId>2</menuId>
+        <foodCategory>Starters</foodCategory>
+        <foodItemName>Capsicum Dhokla</foodItemName>
+        <foodIngredient>Capsicum, coriander, fenugreek, and water</foodIngredient>
+        <price>80</price>
+        <qty>3</qty>
+    </menuItem>
+    <menuItem>
+        <menuId>3</menuId>
+        <foodCategory>Main Dishes</foodCategory>
+        <foodItemName>Paneer Tikka</foodItemName>
+        <foodIngredient>Paneer, yogurt, spices, and bell peppers</foodIngredient>
+        <price>120</price>
+        <qty>2</qty>
+    </menuItem>
+    <menuItem>
+        <menuId>4</menuId>
+        <foodCategory>Specialties</foodCategory>
+        <foodItemName>Gujarati Thali</foodItemName>
+        <foodIngredient>Gujarati assorted dishes</foodIngredient>
+        <price>200</price>
+        <qty>1</qty>
+    </menuItem>
+    <menuItem>
+        <menuId>5</menuId>
+        <foodCategory>Snacks</foodCategory>
+        <foodItemName>Thepka</foodItemName>
+        <foodIngredient>Flour, spices, and oil</foodIngredient>
+        <price>60</price>
+        <qty>2</qty>
+    </menuItem>
+    <menuItem>
+        <menuId>6</menuId>
+        <foodCategory>Main Dishes</foodCategory>
+        <foodItemName>Undhiyu</foodItemName>
+        <foodIngredient>Mixed vegetables, spices, and oil</foodIngredient>
+        <price>150</price>
+        <qty>2</qty>
+    </menuItem>
+    <menuItem>
+        <menuId>7</menuId>
+        <foodCategory>Snacks</foodCategory>
+        <foodItemName>Khandvi</foodItemName>
+        <foodIngredient>Chickpea flour, yogurt, and spices</foodIngredient>
+        <price>90</price>
+        <qty>3</qty>
+    </menuItem>
+    <menuItem>
+        <menuId>8</menuId>
+        <foodCategory>Snacks</foodCategory>
+        <foodItemName>Khaman</foodItemName>
+        <foodIngredient>Gram flour, yogurt, and spices</foodIngredient>
+        <price>70</price>
+        <qty>2</qty>
+    </menuItem>
+    <menuItem>
+        <menuId>9</menuId>
+        <foodCategory>Main Dishes</foodCategory>
+        <foodItemName>Pulao</foodItemName>
+        <foodIngredient>Rice, vegetables, and spices</foodIngredient>
+        <price>100</price>
+        <qty>1</qty>
+    </menuItem>
+    <menuItem>
+        <menuId>10</menuId>
+        <foodCategory>Main Dishes</foodCategory>
+        <foodItemName>Panner Butter Masala</foodItemName>
+        <foodIngredient>Paneer, butter, cream, and spices</foodIngredient>
+        <price>180</price>
+        <qty>2</qty>
+    </menuItem>
+    <menuItem>
+        <menuId>11</menuId>
+        <foodCategory>Main Dishes</foodCategory>
+        <foodItemName>Mixed Vegetable Chinese</foodItemName>
+        <foodIngredient>Assorted vegetables, soy sauce, and spices</foodIngredient>
+        <price>160</price>
+        <qty>2</qty>
+    </menuItem>
+    <menuItem>
+        <menuId>12</menuId>
+        <foodCategory>Drinks</foodCategory>
+        <foodItemName>Jusice</foodItemName>
+        <foodIngredient>Freshly squeezed juice</foodIngredient>
+        <price>40</price>
+        <qty>1</qty>
+    </menuItem>
+    <menuItem>
+        <menuId>13</menuId>
+        <foodCategory>Desserts</foodCategory>
+        <foodItemName>Ice Cream</foodItemName>
+        <foodIngredient>Assorted flavors</foodIngredient>
+        <price>60</price>
+        <qty>1</qty>
+    </menuItem>
+</menuItems>

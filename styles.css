@@ -1,0 +1,35 @@
+body,html {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:  center;
+    margin: 0;
+    
+    background-image: url('brooke-lark-wMzx2nBdeng-unsplash.jpg'); 
+    /* Path to your background image */
+
+}
+
+.navbar {
+    position: relative; /* Ensure the navbar is not overlaid by the background image */
+    background-color: transparent !important;
+    border: 2px gray solid;
+}
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    align-items: center;
+    color: white; /* Adjust text color to your preference */
+    z-index: 1; /* Ensure the text appears above the image */
+}
+nav a{
+    color: yellow;
+
+}
+nav a:hover{
+    color: white;
+
+    text-decoration: underline;
+}
